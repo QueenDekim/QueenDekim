@@ -51,6 +51,10 @@ I have strong skills in working with Git, an understanding of the basics of netw
   </a>
 </div>
 
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=queendekim.queendekim" width="100" alt="visitors" />
+</div>
+
 ###
 
 <br clear="both">
