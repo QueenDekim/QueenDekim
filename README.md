@@ -3,15 +3,16 @@
 ###
 <details>
     <summary>About me</summary>
-    <pre>
+    <blockquote>
 I am a backend developer focused on creating fault-tolerant and scalable client-server applications. My experience includes the full development cycle: from designing the architecture and implementing RESTful APIs on FastAPI and Flask to setting up CI/CD and writing complex tests.
+
 Key areas:
 - Development of services and bots: Creating high-load REST services and Telegram bots with the integration of payment systems and external APIs, managing subscriptions and asynchronous tasks.
 - Web platforms and tools: Developing full-fledged web solutions using Jinja2, including systems for network monitoring, subnet scanning (nmap) and administration with convenient web and CLI interfaces.
 - Quality and reliability: Commitment to clean, maintainable code covered by unit tests (pytest). I pay great attention to documentation.
 
 I have strong skills in working with Git, an understanding of the basics of network security and successful experience of both independent and team work.
-    </pre>
+    </blockquote>
 </details>
 <br>
 <div align="center">
