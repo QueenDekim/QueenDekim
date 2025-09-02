@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Victor Collins and I'm a Python-Developer from Russia.</h2>
 
 ###
-<details>
+<details open>
     <summary>About me</summary>
     <blockquote>
 
