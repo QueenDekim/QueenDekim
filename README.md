@@ -1,6 +1,10 @@
-<h2 align="left">Hi 👋! My name is Victor Collins and I'm a Python-Developer from Russia.</h2>
+<!-- <h2 align="left">Hi 👋! My name is Victor Collins and I'm a Python-Developer from Russia.</h2> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Victor%20Collins&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20Developer&descAlignY=55&descAlign=62" width="100%">
+</div>
 
 ###
+
 <details open>
     <summary>About me</summary>
     <blockquote>
