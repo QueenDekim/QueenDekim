@@ -25,7 +25,9 @@ I have strong skills in working with Git, an understanding of the basics of netw
 ###
 
 <div align="center">
-<a href="https:/ru.stackoverflow.com/users/536223/dekimdev"><img src="https://stackoverflow-card-tan.vercel.app/?userID=536223&theme=dracula&site=ru.stackoverflow" alt="DekimDev stackoverflow account"/></a>
+  <a href="https:/ru.stackoverflow.com/users/536223/dekimdev" target="_blank">
+    <img src="https://stackoverflow-card-tan.vercel.app/?userID=536223&theme=dracula&site=ru.stackoverflow" alt="DekimDev stackoverflow account"/>
+  </a>
 </div>
 
 ###
