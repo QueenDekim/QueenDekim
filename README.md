@@ -25,6 +25,13 @@ I have strong skills in working with Git, an understanding of the basics of netw
 ###
 
 <div align="center">
+  <img height="150px" src="https://codetime-card.vercel.app/?userID=34502&theme=dracula" alt="QueenDekim Codetime statistics"/>
+  <img height="150px" src="https://codetime-card.vercel.app/?userID=34502&type=languages&top_n=5&theme=dracula" alt="QueenDekim Codetime statistics"/>
+</div>
+
+###
+
+<div align="center">
   <a href="https:/ru.stackoverflow.com/users/536223/dekimdev" target="_blank">
     <img src="https://stackoverflow-card-tan.vercel.app/?userID=536223&theme=dracula&site=ru.stackoverflow" alt="DekimDev stackoverflow account"/>
   </a>
