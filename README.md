@@ -22,13 +22,11 @@ I have strong skills in working with Git, an understanding of the basics of netw
    <img src="generated/languages.svg" alt="Languages" />
 </div>
 
-###
 
 <div align="center">
   <img src="https://codetime-card.vercel.app/?userID=34502&type=combined" alt="QueenDekim Codetime statistics"/>
 </div>
 
-###
 
 <div align="center">
   <a href="https:/ru.stackoverflow.com/users/536223/dekimdev" target="_blank">
