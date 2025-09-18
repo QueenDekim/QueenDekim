@@ -18,9 +18,8 @@ I have strong skills in working with Git, an understanding of the basics of netw
 </details>
 <br>
 <div align="center">
-
-   
-
+   <img src="generated/overview.svg" alt="Overview" />
+   <img src="generated/languages.svg" alt="Languages" />
 </div>
 
 ###
