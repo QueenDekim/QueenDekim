@@ -19,6 +19,7 @@ I have strong skills in working with Git, an understanding of the basics of netw
 <br>
 <div align="center">
   <a href="https://github.com/QueenDekim/github-stats-card" target="_blank"><img src="https://github-stats-card-three.vercel.app/?username=queendekim" alt="GitHub stats" /></a>
+  <br>
   <details>
   <summary>Other GitHub Stats implementation</summary>
     <a href="generated">
