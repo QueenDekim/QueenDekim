@@ -18,6 +18,7 @@ I have strong skills in working with Git, an understanding of the basics of netw
 </details>
 <br>
 <div align="center">
+  <h1><a href="dekimdev.ru" target="_blank">My Website</a></h1>
   <a href="https://github.com/QueenDekim/github-stats-card" target="_blank"><img src="https://github-stats-card-three.vercel.app/?username=queendekim" alt="GitHub stats" /></a>
   <br>
   <details>
