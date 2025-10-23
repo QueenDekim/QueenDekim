@@ -20,15 +20,6 @@ I have strong skills in working with Git, an understanding of the basics of netw
 <div align="center">
   <h1><a href="https://dekimdev.ru" target="_blank">🌐 My Website</a></h1>
   <a href="https://github.com/QueenDekim/github-stats-card" target="_blank"><img src="https://github-stats-card-three.vercel.app/?username=queendekim" alt="GitHub stats" /></a>
-  <br>
-  <details>
-  <summary>Other GitHub Stats implementation</summary>
-    <a href="generated">
-      <img src="generated/overview.svg" alt="Overview" />
-      <img src="generated/languages.svg" alt="Languages" />
-    </a>
-  </details>
-  <br>
 </div>
 
 
