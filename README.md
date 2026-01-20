@@ -62,11 +62,7 @@ I have strong skills in working with Git, an understanding of the basics of netw
   <a href="https://discordapp.com/users/824706757946245190" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-</div>
-
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=queendekim.queendekim" width="100" alt="visitors" />
-</div>
+</div
 
 ###
 
