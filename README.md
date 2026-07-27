@@ -22,12 +22,6 @@ I have strong skills in working with Git, an understanding of the basics of netw
   <a href="https://github.com/QueenDekim/github-stats-card" target="_blank"><img src="https://github-stats-card-three.vercel.app/?username=queendekim" alt="GitHub stats" /></a>
 </div>
 
-
-<div align="center">
-  <img src="https://codetime-card.vercel.app/?userID=34502&type=combined" alt="QueenDekim Codetime statistics"/>
-</div>
-
-
 <div align="center">
   <a href="https:/ru.stackoverflow.com/users/536223/dekimdev" target="_blank">
     <img src="https://stackoverflow-card-tan.vercel.app/?userID=536223&site=ru.stackoverflow" alt="DekimDev stackoverflow account"/>
